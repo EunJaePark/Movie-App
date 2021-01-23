@@ -1,9 +1,12 @@
+<div align="center">
+  
 # 🎥 Movie App
 
 Vue.js로 제작한 영화 검색 서비스를 제공하는 웹사이트입니다.
 
-<img src="../EunJaePark.github.io/images/MovieApp.mov" alt="movie app" width="500px" />
+<img src="../MovieApp.gif" alt="movie app" width="500px" />
 
+</div>
 
 - 메인페이지
   - 제목, 배우, 감독, 국가 카테고리 별 영화 검색 
