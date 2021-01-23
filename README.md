@@ -4,7 +4,7 @@
 
 Vue.js로 제작한 영화 검색 서비스를 제공하는 웹사이트입니다.
 
-<img src="../MovieApp.gif" alt="movie app" width="500px" />
+<img src="./MovieApp.gif" alt="movie app" width="500px" />
 
 </div>
 
