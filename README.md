@@ -8,6 +8,7 @@ Vue.js로 제작한 영화 검색 서비스를 제공하는 웹사이트입니�
 
 </div>
 
+## 🎞  pages
 - 메인페이지
   - 제목, 배우, 감독, 국가 카테고리 별 영화 검색 
   - 장르별 영화 목록을 볼 수 있도록 장르 버튼 생성해 사용자의 편의성을 높임
@@ -21,7 +22,7 @@ Vue.js로 제작한 영화 검색 서비스를 제공하는 웹사이트입니�
   - 사용자의 마음에 드는 영화 표시
 
 
-## 👩🏻‍💻Tech stacks
+## 👩🏻‍💻 Tech stacks
 <code><img src="https://user-images.githubusercontent.com/26512984/88481837-ac3ed900-cf98-11ea-8a23-b53146870c81.jpg" width="30px" /></code>
 <code><img src="https://miro.medium.com/max/512/1*YWazhGyGmNs6K3HZE7lS7Q.png" width="30px" /></code>
 <code><img src="https://seeklogo.com/images/N/netlify-logo-758722CDF4-seeklogo.com.png" width="30px" /></code>        
