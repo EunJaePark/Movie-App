@@ -3,7 +3,6 @@
 Vue.js로 제작한 영화 검색 서비스를 제공하는 웹사이트입니다.
 
 <img src="../EunJaePark.github.io/images/MovieApp.mov" alt="movie app" width="500px" />
-<iframe width="640" height="360" src="https://www.youtube.com/embed/6Az2cNU7gUw" frameborder="0" gesture="media" allowfullscreen=""></iframe>
 
 
 - 메인페이지
@@ -20,10 +19,14 @@ Vue.js로 제작한 영화 검색 서비스를 제공하는 웹사이트입니�
 
 
 ## 👩🏻‍💻Tech stacks
-- Vue.js
+<code><img src="https://user-images.githubusercontent.com/26512984/88481837-ac3ed900-cf98-11ea-8a23-b53146870c81.jpg" width="30px" /></code>
+<code><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnccVIjf9zGBtK_T74qVqxrULpm7cpXXqtfQ&usqp=CAU" width="30px" /></code>
+<code><img src="https://seeklogo.com/images/N/netlify-logo-758722CDF4-seeklogo.com.png" width="30px" /></code>        
+vuex, vue-router     
 
-- Vuex
-- JavaScript
+## 🗂 open API
+- KMDB
+
 
 ## 🛠 Project setup
 ```
