@@ -20,7 +20,7 @@ Vue.js로 제작한 영화 검색 서비스를 제공하는 웹사이트입니�
 
 ## 👩🏻‍💻Tech stacks
 <code><img src="https://user-images.githubusercontent.com/26512984/88481837-ac3ed900-cf98-11ea-8a23-b53146870c81.jpg" width="30px" /></code>
-<code><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnccVIjf9zGBtK_T74qVqxrULpm7cpXXqtfQ&usqp=CAU" width="30px" /></code>
+<code><img src="https://miro.medium.com/max/512/1*YWazhGyGmNs6K3HZE7lS7Q.png" width="30px" /></code>
 <code><img src="https://seeklogo.com/images/N/netlify-logo-758722CDF4-seeklogo.com.png" width="30px" /></code>        
 vuex, vue-router     
 
