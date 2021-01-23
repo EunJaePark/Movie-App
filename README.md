@@ -6,7 +6,7 @@ Vue.js로 제작한 영화 검색 서비스를 제공하는 웹사이트입니�
 
 <img src="./MovieApp.gif" alt="movie app" width="600px" />
 
-
+</div>
 
 - 메인페이지
   - 제목, 배우, 감독, 국가 카테고리 별 영화 검색 
@@ -19,7 +19,7 @@ Vue.js로 제작한 영화 검색 서비스를 제공하는 웹사이트입니�
   - 비슷한 장르의 영화 목록
 - Like 기능 
   - 사용자의 마음에 드는 영화 표시
-</div>
+
 
 ## 👩🏻‍💻Tech stacks
 <code><img src="https://user-images.githubusercontent.com/26512984/88481837-ac3ed900-cf98-11ea-8a23-b53146870c81.jpg" width="30px" /></code>
